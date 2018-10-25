@@ -3,3 +3,5 @@
 echo 'labas';
 
 echo 'paradaguojam';
+
+echo 'testas';
